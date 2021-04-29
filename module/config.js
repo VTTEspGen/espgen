@@ -450,23 +450,23 @@ DND5E.senses = {
  */
 DND5E.skills = {
   "acr": "DND5E.SkillAcr",
-  "ani": "DND5E.SkillAni",
-  "arc": "DND5E.SkillArc",
+  "ast": "DND5E.SkillAst",
   "ath": "DND5E.SkillAth",
+  "cmp": "DND5E.SkillCmp",
   "dec": "DND5E.SkillDec",
-  "his": "DND5E.SkillHis",
   "ins": "DND5E.SkillIns",
+  "lor": "DND5E.SkillLor",
   "itm": "DND5E.SkillItm",
   "inv": "DND5E.SkillInv",
+  "mec": "DND5E.SkillMec",
   "med": "DND5E.SkillMed",
-  "nat": "DND5E.SkillNat",
   "prc": "DND5E.SkillPrc",
   "prf": "DND5E.SkillPrf",
   "per": "DND5E.SkillPer",
-  "rel": "DND5E.SkillRel",
   "slt": "DND5E.SkillSlt",
   "ste": "DND5E.SkillSte",
-  "sur": "DND5E.SkillSur"
+  "sur": "DND5E.SkillSur",
+  "xen": "DND5E.SKillXen"
 };
 
 
